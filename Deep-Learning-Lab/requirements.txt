@@ -1,0 +1,15 @@
+# Numerical Computing
+numpy
+pandas
+
+# Visualization
+matplotlib
+
+# Machine Learning
+scikit-learn
+scikeras
+
+# Deep Learning
+tensorflow
+keras
+
