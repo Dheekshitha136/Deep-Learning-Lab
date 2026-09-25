@@ -21,8 +21,7 @@ The experiments are designed to build a strong foundation in deep learning by pr
 | Experiment | Topic | Status |
 |------------|-------|:------:|
 | 01 | Single Layer Perceptron for Binary Classification | ✅ |
-| 02 | Multi-Layer Perceptron (MLP) for Image Classification | ✅ |
-| ... | Upcoming Experiments | 🚧 |
+| 02 | Multi-Layer Perceptron (MLP) for Image Classification | ✅ ||
 
 ---
 
